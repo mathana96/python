@@ -7,3 +7,91 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 2017-04-21 21:57:05.389 plugin-container[1383:71633] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4b1b, name = 'com.apple.CFPasteboardClient'
 See /usr/include/servers/bootstrap_defs.h for the error codes.
 2017-04-21 21:57:05.389 plugin-container[1383:71633] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1492808337198	geckodriver	INFO	Listening on 127.0.0.1:50113
+1492808338256	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1492808340103	Marionette	INFO	Listening on port 50119
+1492808340184	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-21 21:59:00.660 plugin-container[1398:72512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 21:59:00.664 plugin-container[1398:72512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x490b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 21:59:00.664 plugin-container[1398:72512] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+1492808447498	geckodriver	INFO	Listening on 127.0.0.1:50358
+1492808448569	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1492808450390	Marionette	INFO	Listening on port 50364
+1492808450472	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-21 22:00:50.886 plugin-container[1407:73330] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:00:50.888 plugin-container[1407:73330] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:00:50.888 plugin-container[1407:73330] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+2017-04-21 22:01:45.259 plugin-container[1408:73716] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:01:45.260 plugin-container[1408:73716] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:01:45.260 plugin-container[1408:73716] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+1492808521383	geckodriver	INFO	Listening on 127.0.0.1:50558
+1492808522436	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1492808524192	Marionette	INFO	Listening on port 50564
+1492808524247	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-21 22:02:04.703 plugin-container[1416:74043] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:02:04.706 plugin-container[1416:74043] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:02:04.706 plugin-container[1416:74043] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+2017-04-21 22:02:14.988 plugin-container[1417:74186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:02:14.989 plugin-container[1417:74186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9627, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:02:14.989 plugin-container[1417:74186] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1492808545777	geckodriver	INFO	Listening on 127.0.0.1:50705
+1492808546830	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1492808548593	Marionette	INFO	Listening on port 50711
+1492808548657	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-21 22:02:29.093 plugin-container[1423:74474] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:02:29.093 plugin-container[1423:74474] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:02:29.093 plugin-container[1423:74474] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+1492808710132	geckodriver	INFO	Listening on 127.0.0.1:51103
+1492808711199	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1492808712971	Marionette	INFO	Listening on port 51109
+1492808713028	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-21 22:05:13.476 plugin-container[1440:75970] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:05:13.479 plugin-container[1440:75970] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9023, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:05:13.480 plugin-container[1440:75970] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+1492809064550	geckodriver	INFO	Listening on 127.0.0.1:51629
+1492809065618	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1492809067408	Marionette	INFO	Listening on port 51635
+1492809067527	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-04-21 22:11:07.913 plugin-container[1471:78706] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:11:07.916 plugin-container[1471:78706] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-21 22:11:07.916 plugin-container[1471:78706] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
+JavaScript warning: https://d255esdrn735hr.cloudfront.net/sites/default/files/js/14925092576e5afa73/c68c9c8258ea7d85472dd6fd0015f047.js, line 620: unreachable code after return statement
